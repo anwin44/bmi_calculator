@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    background: url("https://www.runsociety.com/wp-content/uploads/2022/10/Calculate-BMI-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin-top: 60px;
+}
